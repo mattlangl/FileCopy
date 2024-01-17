@@ -25,8 +25,10 @@ The project is built using a Makefile which compiles the `fileclient` and `files
 After building the project, run the `fileclient` and `fileserver` executables with the appropriate arguments.
 
 For `fileclient`:
+```bash
 ./fileclient <server_name> <network_nastiness> <file_nastiness> <source_directory>
-
+```
 For `fileserver`:
+```bash
 ./fileserver <network_nastiness> <file_nastiness> <target_directory>
-
+```
