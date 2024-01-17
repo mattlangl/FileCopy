@@ -32,3 +32,10 @@ For `fileserver`:
 ```bash
 ./fileserver <network_nastiness> <file_nastiness> <target_directory>
 ```
+## Authors
+- Matt Langley (mlangl02)
+- Caleb Pekowsky (cpekow01)
+
+## Acknowledgments
+This project was developed as part of the Distributed Systems course (Tufts CS 117), providing a practical application of the concepts learned in network programming and distributed systems.
+
